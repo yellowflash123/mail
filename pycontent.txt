@@ -1,0 +1,20 @@
+<html>
+    <head></head>
+    <body>
+
+    <p>Hello {c}, </p>
+    <p>Greetings! Hope you are doing great!</p>
+
+    <p>Further to our conversation in Linkedin Sales navigator message,</p>
+    
+    <p>We have high energetic technical resources working out of Chennai, India with capabilities in the following.</p>
+    <div class="container">
+    <img src="D:\\python\\mav1.png" width="300" height="250">
+    </br>
+    
+
+    <img src="D:\\python\\mav2.png" width="300" height="250">
+    </div>
+
+    </body>
+</html>
